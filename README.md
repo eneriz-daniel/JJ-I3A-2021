@@ -3,10 +3,10 @@ Aquí está el material de apoyo para la presentación del póster del trabajo _
 
 ## Contacto
 
-- Daniel Enériz (Investigador predoctoral) eneriz@unziar.es
-- Ana Caren Hernández-Ruiz (Investigadora predoctoral) anaacaren@unizar.es
-- Nicolas Medrano nmedrano@unizar.es
-- Belen Calvo becalvo@unizar.es
+- [Daniel Enériz](https://orcid.org/0000-0001-5709-1183) (Investigador predoctoral) [eneriz@unziar.es](mailto:eneriz@unizar.es)
+- [Ana Caren Hernández-Ruiz](https://orcid.org/0000-0001-6318-6162) (Investigadora predoctoral) [anaacaren@unizar.es](mailto:anaacaren@unizar.es)
+- [Nicolas Medrano](https://orcid.org/0000-0002-5380-3013) [nmedrano@unizar.es](mailto:nmedrano@unizar.es)
+- [Belen Calvo](https://orcid.org/0000-0003-2361-1077) [becalvo@unizar.es](mailto:becalvo@unizar.es)
 
 Los cuatro autores pertenecen al Grupo de Diseño Electrónico (GDE) del I3A y con despachos en la Facultad de Ciencias de Unizar.
 
