@@ -12,6 +12,10 @@ Los cuatro autores pertenecen al Grupo de Diseño Electrónico (GDE) del I3A y c
 
 ## Material
 
+### Poster
+
+[![Para visualizar el poster en tu dispositivo puedes pinchar aquí](poster.png)](poster.pdf)
+
 - Para visualizar el poster en tu dispositivo puedes pinchar [aquí](poster.pdf)
 - El resumen del trabajo presentado lo puedes encontrar [aquí](resumen.pdf)
 
