@@ -1,7 +1,16 @@
 remote_theme: pmarsceill/just-the-docs
-title: [Procesado on the edge de señales EEG para reconocimiento de tareas de imaginación motora]
-description: [Parte de la X Jornada de Jóvenes Investigadores del I3A]
+title: Procesado on the edge de señales EEG para reconocimiento de tareas de imaginación motora
+description: Parte de la X Jornada de Jóvenes Investigadores del I3A
+
+# Aux links for the upper right navigation
+aux_links:
+  "Enlace al código":
+    - "//github.com/eneriz-daniel/MIBCI-QCNNs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 color_scheme: dark
 
 logo: "poster.png"
+
