@@ -22,4 +22,4 @@ Los cuatro autores pertenecen al Grupo de Diseño Electrónico (GDE) del I3A y c
 
 ### Código
 
-Hay una publicación del código usado en este trabajo en [este repositorio](https://github.com/eneriz-daniel/MIBCI-QCNNs)
+Hay una publicación del código usado en este trabajo en este repositorio [MIBCI-QCNNs](https://github.com/eneriz-daniel/MIBCI-QCNNs){: .btn }
