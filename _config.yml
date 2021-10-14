@@ -1,3 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: [Procesado on the edge de señales EEG para reconocimiento de tareas de imaginación motora]
 description: [Parte de la X Jornada de Jóvenes Investigadores del I3A]
+
+color_scheme: dark
+
+logo: "poster.png"
