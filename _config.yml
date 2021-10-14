@@ -2,6 +2,8 @@ remote_theme: pmarsceill/just-the-docs
 title: MIBCI-QCNNs
 description: Parte de la X Jornada de Jóvenes Investigadores del I3A
 
+search_enabled: false
+
 # Aux links for the upper right navigation
 aux_links:
   "Enlace al código":
